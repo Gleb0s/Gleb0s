@@ -1,4 +1,4 @@
-<p>Welcome to my page! </br> I’m Gleb Igumnov, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323300.png" width="13"/> <b>Russia, Ivanovo</b>/></p>
+<p>Welcome to my page! </br> I’m Gleb Igumnov, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323300.png" width="13"/> <b>Russia, Ivanovo</b></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
